@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "EmbeddIQ",
-  description: "AI geospatial intelligence platform.",
+  description: "AI geospatial intelligence platform",
 };
 
 export default function RootLayout({ children }) {
