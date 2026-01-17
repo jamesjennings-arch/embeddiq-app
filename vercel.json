@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://api.embeddiqapp.com/$1"
+    }
+  ]
+}
