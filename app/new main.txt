@@ -1,0 +1,12 @@
+app/
+  layout.tsx
+  page.tsx
+public/
+  logo.svg or png
+styles/
+  globals.css
+next.config.js
+package.json
+tsconfig.json
+postcss.config.js
+tailwind.config.js
