@@ -1,0 +1,1 @@
+export default function Home(){return(<main>EmbeddIQ Landing</main>);}
