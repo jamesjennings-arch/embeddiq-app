@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* EmbeddIQ defaults */
+body {
+  @apply bg-black text-white antialiased;
+}
